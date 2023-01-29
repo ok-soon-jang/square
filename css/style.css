@@ -27,6 +27,8 @@ section article {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 30px;
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */
